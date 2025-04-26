@@ -63,4 +63,4 @@ By including IMF country groups, I can further analyze how these dynamics differ
 income, emerging market, and advanced economies. This makes it possible to uncover
 structural inequalities. In this changing global climate, this dataset gives us a small insight in the current food systems.
 This analysis is essential for steering food systems toward greater sustainability and
-inclusiveness and this approach aligns with United Nations’ Sustainable Development Goals. [6]
+inclusiveness and this approach aligns with United Nations’ Sustainable Development Goals.
