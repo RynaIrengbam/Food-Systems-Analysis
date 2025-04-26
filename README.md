@@ -52,7 +52,8 @@ Drought), D2 (Severe Drought), D3 (Extreme Drought) and D4 (Exceptional Drought)
 **Column Names:** ISO, MapDate, Area of Interest, None, D0, D1, D2, D3, D4, Valid
 Start, Valid End
 
-Why is dataset choice interesting?
+## Why is dataset choice interesting?
+
 This combination of dataset is interesting because it enables me to explore different perspectives
 of the agricultural system: from the inputs that go into farming to the final outcomes of food
 security, in conjunction with the economic context in which these processes occur. The data for
